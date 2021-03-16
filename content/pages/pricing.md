@@ -31,7 +31,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: www.google.com
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
