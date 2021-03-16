@@ -17,7 +17,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - label: Order Now
-            url: /signup
+            url: 'http://www.google.com'
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
